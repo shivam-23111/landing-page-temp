@@ -1,9 +1,5 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-<<<<<<< HEAD
-=======
-import {Analytics} from "@vercel/analytics/react"
->>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
 
 import "./globals.css";
 import { ThemeProvider } from "./provider";
@@ -33,10 +29,6 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
-<<<<<<< HEAD
-=======
-          <Analytics/>
->>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
         </ThemeProvider>
       </body>
     </html>

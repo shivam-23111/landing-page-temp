@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 
 
-=======
->>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
 "use client";
 import React, { useEffect, useId, useRef, useState } from "react";
 import { Spotlight } from "./ui/Spotlight";
