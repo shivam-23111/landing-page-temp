@@ -166,6 +166,10 @@ const config = {
   			fourth: 'moveHorizontal 40s ease infinite',
   			fifth: 'moveInCircle 20s ease infinite',
   			scroll: 'scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite',
+<<<<<<< HEAD
+=======
+  			
+>>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
   		}
   	}
   },

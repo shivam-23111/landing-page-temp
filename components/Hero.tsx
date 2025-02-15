@@ -26,7 +26,11 @@ const Hero = () => {
               <div className="flex space-x-4">
                 <div className="w-28 md:w-28 p-2 flex items-center justify-center rounded-2xl ">
                   <Image
+<<<<<<< HEAD
                     src="/logo5.png"
+=======
+                    src="/logo2.png"
+>>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
                     alt="Image 1"
                     width={300}
                     height={300}
@@ -35,7 +39,11 @@ const Hero = () => {
                 </div>
                 <div className="w-28 md:w-28 bg-white p-2 flex items-center justify-center rounded-2xl">
                   <Image
+<<<<<<< HEAD
                     src="/logo3.png"
+=======
+                    src="/logo.png"
+>>>>>>> 11f45acb383cb313b8e2faef3a1173cefbf541df
                     alt="Image 2"
                     width={300}
                     height={300}
